@@ -9,7 +9,7 @@
     Backend: npm run start (server starts at PORT 7000)
 
 
-###############################
-NOTE: The API used for getting the geo cordinates of users address is a free version of the API.
+
+## NOTE: The API used for getting the geo cordinates of users address is a free version of the API.
        It fails to retrieve data 15% of the times, there may be improper on random results sometimes.
        This is not caused due to current project.
